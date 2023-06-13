@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.pictureStyle {
+  width: 100%;
+  height: 200px;
+}
+
+.formLayout {
+  margin: 20px;
+}
